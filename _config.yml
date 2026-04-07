@@ -25,19 +25,19 @@ author:
   avatar           : "zhouzhen.jpg"
   name             : "Zhen Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D., focusing on 3D Foundation Models and Embodied AI."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Tencent Hunyuan"
   uri              : "https://zhen6618.github.io"
-  email            : "none@example.org" 
+  email            : "zityzhou@tencent.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=NHitQ88AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3929-1549"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
