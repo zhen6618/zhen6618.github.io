@@ -9,15 +9,12 @@ redirect_from:
 ---
 
 <style>
-  /* 取消右侧预留的空白边界 */
   .page {
     padding-right: 0 !important;
   }
-  /* 强制内容区域的最大宽度拉满 */
   .page__inner-wrap {
     max-width: 100% !important;
   }
-  /* 确保文本容器也随之撑开 */
   .page__content {
     max-width: 100% !important;
   }
