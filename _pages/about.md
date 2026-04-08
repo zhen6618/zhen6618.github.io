@@ -67,6 +67,8 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
+
+
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/QuadGPT-image.png" alt="QuadGPT Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -78,6 +80,8 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2509.21420" target="_blank">PDF</a>]</p>
     </td>
   </tr>
+
+
 
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
@@ -91,6 +95,8 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
+
+
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/HY3DStudio-image.png" alt="HY3DStudio Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -102,6 +108,8 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2509.12815" target="_blank">PDF</a>]</p>
     </td>
   </tr>
+
+
 
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
@@ -115,6 +123,8 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
+
+
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/OBSeg-image.png" alt="OBSeg Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -124,6 +134,20 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong>, Junfeng Fan, Yunkai Ma, Sihan Zhao, Fengshui Jing, Min Tan</p>
       <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">Machine Intelligence Research (<strong>MIR</strong>), 2025</p>
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2401.08174" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/OBBInstanceSegmentation" target="_blank">Code</a>]</p>
+    </td>
+  </tr>
+
+
+
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/YOLO-LR-image.png" alt="YOLO-LR Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong>, Yunkai Ma, Junfeng Fan, Zhaoyang Liu, Fengshui Jing, Min Tan</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">Pattern Recognition (<strong>PR</strong>), 2024</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://pdf.sciencedirectassets.com/272206/1-s2.0-S0031320324X00072/1-s2.0-S003132032400428X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDEaCXVzLWVhc3QtMSJGMEQCIECFRVNi3NW6wEDe02zlv3Cpgkz4Af5sb5P58BNX3nspAiAHtdem6VddHuRImYyY%2BQR6e%2FLEwYggjUfkPSiTLwfijiq7BQj5%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMW9eRYhw9UCTPY4%2FtKo8FE%2BAkPfrDfrS4piHid5OfBiv4b9bV9a%2BqpZOjfsJrMpBx9LLmqw8hLKqdXyrtPIpEFujpULB%2BpS3gYM5xIBbza46Oa7rwHSZCIpTVQsDE8FvquX61UoBjOFCwg9eZo4EcJ1FWjBj0qVKQkJNoQtVRYtbeOZP7AyJJxNcaE3%2F20UB%2FPWqHf1RgsGy4NXA2IcyxaU00zFVw5T9FoCHCegS6cWeWBhvAhIilyGsmtuEHfGfvAdFNBQ%2FLjNfEVIngWxyC88chx%2FfNmPzQJT%2B8vK0aguqXUGBqdlnKcDUtLV8FvHWeewNXeif%2F9B0BTrjZbMTH3e6Zu0wTv3m9QxlcXEidblnXrIiR7toC92Q%2Bari9vmY2rPbnOWEghyEOp4HHllSzBgp7RaspnEXqtlZkkmCuOcUYMRzlP%2BbxF%2B3V%2F4sBZTfyGdfNRISDAo1e9NVbLFoxLM5RKgWonWb7DWJI288M%2FkbnvjA2T7tiETvfgP2SeU0mvXkWIQnbKD3xitcno4aphHZqPGaBq11MQRJEcRSOIJKVdrMVsgReI7rBiwhGWgy2Z0SZAJehL7X%2F1njOl1mFdYsGJMZVxlVY6zO0eG1XDTdqPDbrTpmnKCvg5ojM2XM%2BnAYTyXOa71HWQL6zTmyXXsLXht8LB6O1wExbcoI8jcb7r79BO%2BWCirBykMI4ccEBGMKB3Mhdhkg6TEOZGuOXnqCefoI5ldlcpZhsBTkrVLvgBadJBbqEhyKYei3RoM%2BZ3W1EAS4%2FLm3lWmYuQWEw8gnRBKf%2F5TvUt0%2FcKTvBFYPri6kwSC%2B%2FDEAwiIVz%2FODHAonn2T9D0iuJ%2FNjJ4%2FHDzM88EmTZmRR6R0GEbWDraX2khngQC9ib310peP2HPzDDm9jOBjqyAYXDSNtrSo1IzHDd%2BNRuqoxfUrgUs7WfxkDFkEmxmPAbGM9FgP8mFvmbRiqkC%2FD3Dmfl8%2BMylL12xUlkI83NSUdeWeXu9fRgScGiNy%2FmKdvO5VBpMUf8a3L6xSpC9R0u7GWdOebGR6WjzGdn01M%2FvXlcT4MRw%2F1sJZ4BUB1ARwaD2oxay6zTPkzzZ39sFoou47WeBWVNy%2BK16N9Qe5G2S8qVDiTjdDfXq5dvs3dw7Ka4lS8%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260408T090256Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUJ7QHESU%2F20260408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8eb5ecc4ab7f9cadf7bcc9ad420e8be59e440e760defd43879c4f641ac110b5a&hash=b025be9ee97c413a20b49dc07ff85b448c7cdda1c70b092e07a942aa6eb08615&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S003132032400428X&tid=spdf-d2f497da-f099-4f47-85eb-6bd68bab70cf&sid=aca0d5ba19c8e84987-9fbb-a4b4ae3c362agxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0c5c0b5b50505c5602&rr=9e90188e0ed60655&cc=hk&kca=eyJrZXkiOiI5TmJEM2tFWVlYK3ZkQmU0NmREMy82c0xOMkZuSjkwWmlmZ3g5NWxQTFBkUFZibWoyUkxkWjFjWXpJelBrMjg4NkRMK1N1b3J0c3NWT2YrRFFQUWZMcWxvTXpIelJUdW5JV0czTldUN0E3MTM5cmY1L2k3YzZiek5YYmFPVlRObUxyVGRxQU5WZmwyZkxlZllnTTRUMWdQWkEzeVU2N2RkZjM1Tk5YUHlYcjlmcmNwaSIsIml2IjoiYmJjYzc1MGI0MWRjY2Y3YTY1YmU5OWMwMDY1YzgwOTIifQ==_1775638985018" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/RotaYolo" target="_blank">Code</a>]</p>
     </td>
   </tr>
 </table>
