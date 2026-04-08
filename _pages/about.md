@@ -49,6 +49,5 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
   * [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_LIRA_Reasoning_Reconstruction_via_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) [[Code]](https://github.com/zhen6618/LIRA)
 
 ## Service
-* **Conference Reviewer:** CVPR 2026, ICCV 2025, NeurIPS 2025
-* **Journal Reviewer:** [如果有期刊审稿经历则填入，无则删除此行]
+* **Reviewer:** CVPR, ICCV, ICML, ICRA, IROS, TNNLS, TIP, TII, TIE, TIM
 
