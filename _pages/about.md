@@ -93,6 +93,18 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
 
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/HY3DStudio-image.png" alt="HY3DStudio Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Core Contributor</strong></p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;"> <strong>Technical Report</strong>, 2025</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2509.12815" target="_blank">PDF</a>]</p>
+    </td>
+  </tr>
+
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/EPRecon-image.png" alt="EPRecon Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
     </td>
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
