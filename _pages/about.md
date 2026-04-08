@@ -32,7 +32,7 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
   * RL for 3D Generation Large Models
 
 * **Sept 2021 - June 2026: Ph.D., Chinese Academy of Sciences**
-  * Institute of Automation, Chinese Academy of Sciences (CASIA) & School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)
+  * Institute of Automation, Chinese Academy of Sciences (CASIA) & School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS) & State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)
   * 2D/3D Multimodal Understanding and Generation, Robotic Mobile Manipulation, Large Multimodal Models
 
 * **May 2025 - Dec 2025: Research Intern, Tencent Hunyuan (Qingyun Program)**
