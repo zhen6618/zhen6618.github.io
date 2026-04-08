@@ -20,9 +20,7 @@ redirect_from:
   }
 </style>
 
-I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Models and Embodied AI. My long-term goal is to make 3D creation accessible to everyone and explore generating 3D worlds where embodied agents can freely explore and learn. 
-
-I received my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2026. 
+I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Models and Embodied AI. 
 
 ---
 
