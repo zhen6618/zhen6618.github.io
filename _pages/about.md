@@ -39,14 +39,14 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
 
 ## Selected Publications
 * **Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**
-  * Zhen Zhou, Jian Liu, Biwen Lei, et al.
-  * *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026
-  * [[PDF]](链接) [[Code]](链接)
-
+  * **Zhen Zhou**<sup>†</sup>, Jian Liu<sup>†</sup>, Biwen Lei, Jing Xu, Haohan Weng, Yiling Zhu, Zhuo Chen, Junfeng Fan, Yunkai Ma, Dazhao Du, Song Guo, Fengshui Jing, Chunchao Guo (<sup>†</sup> Equal contribution)
+  * *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
+  * [[PDF]](https://arxiv.org/pdf/2603.00526)
+    
 * **LIRA: Reasoning Reconstruction via Multimodal Large Language Models**
-  * [作者列表]
-  * *International Conference on Computer Vision (ICCV)*, 2025
-  * [[PDF]](链接) [[Code]](链接)
+  * **Zhen Zhou**, Tong Wang, Yunkai Ma, Xiao Tan, Fengshui Jing
+  * *IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025*
+  * [[PDF]](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_LIRA_Reasoning_Reconstruction_via_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) [[Code]](https://github.com/zhen6618/LIRA)
 
 ## Service
 * **Conference Reviewer:** CVPR 2026, ICCV 2025, NeurIPS 2025
