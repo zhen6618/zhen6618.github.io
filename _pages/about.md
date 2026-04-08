@@ -181,7 +181,8 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
     </td>
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">国家商用大飞机制造工程-基于双目结构光视觉的机器人末端法向找正技术研究</h3>
-      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">以<strong>第一核心完成人</strong>，完成国家商用大飞机制造工程-”基于双目结构光视觉的机器人末端法向找正技术研究”项目的全部内容，包括完成机器人系统的硬件（机械设计与组装、电路设计与焊接）和软件（基于深度学习的双目结构光视觉感知算法、机器人规划与控制算法、前端人机交互界面）的全流程设计与测试。研究成果包括完成精度与速度指标、学术论文、专利、软件著作权、整装系统集成等。在商飞工业产线现场：基准孔定位精度提升至0.2mm，识别时间提升至60ms以内，垂直制孔方向的法向精度提升至0.1°。</p>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>第一核心完成人</strong></p>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">完成国家商用大飞机制造工程-”基于双目结构光视觉的机器人末端法向找正技术研究”项目的全部内容，包括完成机器人系统的硬件（机械设计与组装、电路设计与焊接）和软件（基于深度学习的双目结构光视觉感知算法、机器人规划与控制算法、前端人机交互界面）的全流程设计与测试。研究成果包括完成精度与速度指标、学术论文、专利、软件著作权、整装系统集成等。基准孔定位精度提升至0.2mm，识别时间提升至60ms以内，垂直制孔方向的法向精度提升至0.1°。</p>
     </td>
   </tr>
 </table>
