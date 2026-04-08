@@ -14,15 +14,28 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
 
 ---
 
-## Education
-* **Ph.D.** in Computer Science, Institute of Automation, Chinese Academy of Sciences (CASIA), 2026
-* **B.S.** / **M.S.** in [你的专业], [你的学校], [年份]
+## Experience
 
-## Work Experience
 * **Researcher**, Tencent Hunyuan (Qingyun Program)
   * *July 2026 - Present*
-* **Research Intern**, Shanghai AI Lab
-  * *[起始月份] 2023 - [结束月份] 2024*
+  * **Focus:** RL for 3D Generation Large Models
+
+* **Ph.D.**, Chinese Academy of Sciences
+  * *Sept 2021 - June 2026*
+  * Institute of Automation, Chinese Academy of Sciences (CASIA) & School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)
+  * **Focus:** 2D/3D Multimodal Understanding and Generation, Robotic Mobile Manipulation, Large Multimodal Models
+
+* **Research Intern**, Tencent Hunyuan (Qingyun Program)
+  * *May 2025 - Dec 2025*
+  * **Focus:** RL for 3D Generation Large Models
+
+* **Research Intern**, Baidu
+  * *Aug 2024 - Feb 2025*
+  * **Focus:** Perception and Understanding of Large Vision-Language Models
+
+* **B.E.**, Hunan University (HNU)
+  * *Sept 2017 - June 2021*
+  * School of Electrical and Information Engineering, Automation
 
 ## Selected Publications
 * **Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**
