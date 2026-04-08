@@ -38,10 +38,20 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
   * School of Electrical and Information Engineering, Automation
 
 ## Selected Publications
-* **Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation**
-  * **Zhen Zhou**<sup>†</sup>, Jian Liu<sup>†</sup>, Biwen Lei, Jing Xu, Haohan Weng, Yiling Zhu, Zhuo Chen, Junfeng Fan, Yunkai Ma, Dazhao Du, Song Guo, Fengshui Jing, Chunchao Guo (<sup>†</sup> Equal contribution)
-  * *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
-  * [[PDF]](https://arxiv.org/pdf/2603.00526)
+
+<table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr style="border: none; background: transparent;">
+    <td style="width: 35%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 0 0; vertical-align: top;">
+      <img src="/images/Mesh-Pro-image.png" alt="Mesh-Pro Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0; vertical-align: top;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong><sup>†</sup>, Jian Liu<sup>†</sup>, Biwen Lei, Jing Xu, Haohan Weng, Yiling Zhu, Zhuo Chen, Junfeng Fan, Yunkai Ma, Dazhao Du, Song Guo, Fengshui Jing, Chunchao Guo (+ Equal contribution)</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2603.00526" target="_blank">PDF</a>] 
+    </td>
+  </tr>
+</table>
     
 * **LIRA: Reasoning Reconstruction via Multimodal Large Language Models**
   * **Zhen Zhou**, Tong Wang, Yunkai Ma, Xiao Tan, Fengshui Jing
