@@ -160,8 +160,22 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">WeldNet: A Deep Learning Based Method for Weld Seam Type Identification and Initial Point Guidance</h3>
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Yunkai Ma, Junfeng Fan, <strong>Zhen Zhou</strong>, Sihan Zhao, Fengshui Jing, Min Tan</p>
-      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">Expert Systems with Applications (<strong>ESWA</strong>), 2025</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">Expert Systems with Applications (<strong>ESWA</strong>), 2024</p>
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417423X00268/1-s2.0-S0957417423022029/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDAaCXVzLWVhc3QtMSJHMEUCIQDSgsBrA%2BEU0%2FJ3abZOPzFDmq%2Ftp0KSNtniqle1LWm66QIgHW%2FWuG7UCa1ud9lx%2FtehYOmxvq3jQXRX8SoGibz5%2B%2BkqvAUI%2Bf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDLKQx1Aox0ajTKUePCqQBfTZ7h2sgeU2KE5Hl0A1xme0y9r4xp%2BxAE5X1kBqmF2EoK5PtY2sJcdQOFr5S5Kln6RlCMZ%2Fup1%2BqvbOxrLc09Nzsvy4%2BXyu5DyZIaQI8WueVPWyhBe5vZ0yy6vyBFPzUmZaLnoIs%2BQWZqnEhRKYOIXjVx8wgvWqZKjrKBMI5RewLLnMwdzPGSlR%2BnGqi6UDHgQ%2BD98BwGEbY5XXSUDH7KaA8wiafyzG8QXVuyBBp3P1rnP4XfR%2FRxsUPz1ys7vtXP61bK5V9bJaxs0yF1XXLvONUcITC0Ypsw4Qg%2BHgmHLzCnIXhovtmDHDo47z90kh1w1FXmdiVRaYydvpHL4rIJRm0nGJLsDYgGbN3e5ulgJnUjw3vzVf9QdGU5wSOMnwrO7seYmBZjsaP2dq%2BGdY356YrbIDl%2Fxs5e3AtE66eFiotarVWCvhJ2hEHd7xlOPxiV%2F%2Bc3KSmEIVpAWNfCzOEKckZw5GoJjdsC%2F8pqQglEW9zfX9C%2BMNWml6GRCV1dBq%2BZm0RKzhyFAN1WTVBj%2FXR1wvq8JAfzd9Qs8G5HywDg4yi1WFrezqN8J%2FzEaoMb0mC6UvOAb2LpGNvY8m8izMZJ2mq%2FFBITaXt7DfOBC1sybko3rgQBg9HLNP0GR%2BBQ2Z4iZ8%2BiluMFIS06P%2FXJ5VZqPpwFCcRF%2BlEPz1rBReioulc4Bxm5v131Nn%2Ft%2BA6b3%2F3ijuxyngQvL9NwpMe5H2maLXvNNUuUmSLXsAPlCnpOV%2F8nFHfP4uW21MT9jIeHHJmKJvEDZEprw5j0yn6nUbio1k5bSp25GIEW5p8j4J8D6IgZr8BQ6VC3aif56lozeLhPulElAExOrzEwiM8npbgY63AIdWo5sc%2BJDv%2FyMeWR3wMN6I2M4GOrEBWTHbNQYBIIumqivVijslD28aBYALr90PxDm2Rr3Hpfdeuf69iOoRaLXrQMKOgM%2FSeXhGic%2B00fmdAwfY0RK0BBLvg9QykxK3i4bFTvGtvTbUVNLvdjJgl%2FcOFqdWFGlzdaHl2RVH%2FWDEquUgKodL1IlIWDnoJGuEYYc9DunawXfqku3%2BDLAbAJTPp%2FdKYSnG%2FR%2F4Raq6ajXQ3kg1KU5k1MB1XMAF1vNhjz1MIqgG1m01&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260408T091516Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZT4DFVKY%2F20260408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9c299e814d0ac8776f98de2d1ea1b3b27b2aec6ff7309081c7dc7f3d429162e9&hash=ea641e50f5e4498a317f8d49266fcdcebbdeda428fd5bd6d9e4b589ba205b1a1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417423022029&tid=spdf-4927c3f0-cd4b-4583-a0cf-edbc82a18fee&sid=aca0d5ba19c8e84987-9fbb-a4b4ae3c362agxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0c5c0b5b5053050f53&rr=9e902aa44ce58591&cc=hk" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/OBBInstanceSegmentation" target="_blank">Code</a>]</p>
+    </td>
+  </tr>
+
+
+
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/DeepKP-image.png" alt="DeepKP Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">DeepKP: A Robust and Accurate Framework for Weld Seam Keypoint Extraction in Welding Robots</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Sihan Zhao, Yunkai Ma, Junfeng Fan, <strong>Zhen Zhou</strong>, Hongliang Wang, Fengshui Jing, Min Tan</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">IEEE Transactions on Instrumentation and Measurement (<strong>TIM</strong>), 2024</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://www.researchgate.net/profile/Yunkai-Ma-2/publication/379320425_DeepKP_A_Robust_and_Accurate_Framework_for_Weld_Seam_Keypoint_Extraction_in_Welding_Robots/links/676e77f7117f340ec3da75f9/DeepKP-A-Robust-and-Accurate-Framework-for-Weld-Seam-Keypoint-Extraction-in-Welding-Robots.pdf" target="_blank">PDF</a>] </p>
     </td>
   </tr>
 </table>
