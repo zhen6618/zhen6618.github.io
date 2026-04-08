@@ -55,6 +55,7 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
 ## Selected Publications
 
 <table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  /* Mesh-Pro */
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/Mesh-Pro-image.png" alt="Mesh-Pro Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -67,6 +68,20 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
+  /* QuadGPT */
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/QuadGPT-image.png" alt="LIRA Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Jian Liu, Chunshi Wang, Song Guo, Haohan Weng, <strong>Zhen Zhou</strong>, Zhiqi Li, Jiaao Yu, Yiling Zhu, Jing Xu, Biwen Lei, Zhuo Chen, Chunchao Guo</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">International Conference on Learning Representations (<strong>ICLR</strong>), 2026</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2509.21420" target="_blank">PDF</a>]</p>
+    </td>
+  </tr>
+
+  /* LIRA */
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/LIRA-image.png" alt="LIRA Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
