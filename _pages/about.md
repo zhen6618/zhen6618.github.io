@@ -114,6 +114,18 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://ieeexplore.ieee.org/document/11128258" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/EPRecon" target="_blank">Code</a>]</p>
     </td>
   </tr>
+
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/OBSeg-image.png" alt="OBSeg Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">OBSeg: Accurate and Fast Instance Segmentation Framework Using Segmentation Foundation Models with Oriented Bounding Box Prompts</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong>, Junfeng Fan, Yunkai Ma, Sihan Zhao, Fengshui Jing, Min Tan</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">Machine Intelligence Research (<strong>MIR</strong>), 2025</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/pdf/2401.08174" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/OBBInstanceSegmentation" target="_blank">Code</a>]</p>
+    </td>
+  </tr>
 </table>
 
 
