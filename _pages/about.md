@@ -55,7 +55,6 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
 ## Selected Publications
 
 <table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-  /* Mesh-Pro */
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/Mesh-Pro-image.png" alt="Mesh-Pro Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -68,10 +67,9 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
-  /* QuadGPT */
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
-      <img src="/images/QuadGPT-image.png" alt="LIRA Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+      <img src="/images/QuadGPT-image.png" alt="QuadGPT Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
     </td>
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models</h3>
@@ -81,7 +79,6 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
     </td>
   </tr>
 
-  /* LIRA */
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/LIRA-image.png" alt="LIRA Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
@@ -91,6 +88,18 @@ I received my Ph.D. degree from the Institute of Automation, Chinese Academy of 
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong>, Tong Wang, Yunkai Ma, Xiao Tan, Fengshui Jing</p>
       <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">International Conference on Computer Vision (<strong>ICCV</strong>), 2025</p>
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_LIRA_Reasoning_Reconstruction_via_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/LIRA" target="_blank">Code</a>]</p>
+    </td>
+  </tr>
+
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/EPRecon-image.png" alt="EPRecon Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong>, Yunkai Ma, Junfeng Fan, Shaolin Zhang, Fengshui Jing, Min Tan</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2025</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://ieeexplore.ieee.org/document/11128258" target="_blank">PDF</a>] [<a href="https://github.com/zhen6618/EPRecon" target="_blank">Code</a>]</p>
     </td>
   </tr>
 </table>
