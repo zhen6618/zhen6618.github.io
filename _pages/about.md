@@ -191,7 +191,7 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" title="点击观看完整演示视频">
         <video autoplay loop muted playsinline style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); cursor: pointer;">
-          <source src="/images/robot_ev.mp4" type="video/mp4">
+          <source src="/images/robot-ev.mp4" type="video/mp4">
         </video>
       </a>
     </td>
