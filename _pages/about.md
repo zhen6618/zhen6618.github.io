@@ -20,7 +20,7 @@ redirect_from:
   }
 </style>
 
-I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Models and Embodied AI. 
+I am currently a Researcher at **Tencent Hunyuan**, focusing on Reinforcement Learning for 3D Foundation Models and Embodied AI. 
 
 ---
 
