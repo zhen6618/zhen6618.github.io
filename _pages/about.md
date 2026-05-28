@@ -185,6 +185,23 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">完成国家商用大飞机制造工程-”基于双目结构光视觉的机器人末端法向找正技术研究”项目的全部内容，包括完成机器人系统的硬件（机械设计与组装、电路设计与焊接）和软件（基于深度学习的双目结构光视觉感知算法、机器人规划与控制算法、前端人机交互界面）的全流程设计与测试。研究成果包括完成精度与速度指标、学术论文、专利、软件著作权、整装系统集成等。基准孔定位精度提升至0.2mm，识别时间提升至60ms以内，垂直制孔方向的法向精度提升至0.1°。</p>
     </td>
   </tr>
+
+
+ <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" title="点击观看完整演示视频">
+        <video autoplay loop muted playsinline style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); cursor: pointer;">
+          <source src="/images/robot_ev.mp4" type="video/mp4">
+        </video>
+      </a>
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">基于语言引导实例分割的机器人移动操作</h3>
+      <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
+        完整视频见 <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" style="color: #007bff; font-weight: bold; text-decoration: underline;">Here</a>（点击可跳转）
+      </p>
+    </td>
+  </tr>
 </table>
   
 
