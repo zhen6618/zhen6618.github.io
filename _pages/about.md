@@ -196,7 +196,7 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
       </a>
     </td>
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
-      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">基于语言引导实例分割的机器人移动操作</h3>
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">基于语言引导实例三维重建的机器人移动操作</h3>
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>第一作者</strong></p>
       <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
         完整视频见 <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" style="color: #007bff; font-weight: bold; text-decoration: underline;">Here</a>（点击可跳转）
