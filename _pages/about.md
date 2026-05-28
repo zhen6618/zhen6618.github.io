@@ -199,7 +199,7 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
       <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">基于语言引导实例三维重建的机器人移动操作</h3>
       <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>第一作者</strong></p>
       <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
-        完整视频见 <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" style="color: #007bff; font-weight: bold; text-decoration: underline;">Here</a>（点击可跳转）
+        “手-眼-足-脑”高度协同的具身移动操作机器人，首先根据涉及隐式及长程空间关系推理的语言指令进行目标实例三维重建，然后自主完成移动操作任务，例如视频中展示了机器人连续完成“1. Put the textbook on the lumbar-support chair by my wooden table. 2. Additionally, fetch a drink (a small one is fine) and place it on the table. 3. Lastly, put the digestive medicine on the lumbar-support chair too.”三个任务。完整视频见 <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" style="color: #007bff; font-weight: bold; text-decoration: underline;">Here</a>（点击可跳转）
       </p>
     </td>
   </tr>
