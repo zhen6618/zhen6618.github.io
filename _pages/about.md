@@ -177,18 +177,6 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
 <table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
-      <img src="/images/国产商用大飞机装配-image.jpg" alt="国产商用大飞机装配 Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-    </td>
-    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
-      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">国家商用大飞机制造工程-基于双目结构光视觉的机器人末端法向找正技术研究</h3>
-      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>第一核心完成人</strong></p>
-      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">完成国家商用大飞机制造工程-”基于双目结构光视觉的机器人末端法向找正技术研究”项目的全部内容，包括完成机器人系统的硬件（机械设计与组装、电路设计与焊接）和软件（基于深度学习的双目结构光视觉感知算法、机器人规划与控制算法、前端人机交互界面）的全流程设计与测试。研究成果包括完成精度与速度指标、学术论文、专利、软件著作权、整装系统集成等。基准孔定位精度提升至0.2mm，识别时间提升至60ms以内，垂直制孔方向的法向精度提升至0.1°。</p>
-    </td>
-  </tr>
-
-
- <tr style="border: none; background: transparent;">
-    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" title="点击观看完整演示视频">
         <video autoplay loop muted playsinline style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); cursor: pointer;">
           <source src="/images/robot-ev.mp4" type="video/mp4">
@@ -201,6 +189,19 @@ I am currently a Researcher at **Tencent Hunyuan**, focusing on 3D Foundation Mo
       <p style="margin-top: 0; margin-bottom: 0; font-size: 0.95em;">
         基于“手-眼-足-脑”高度协同的具身移动操作机器人，首先根据涉及隐式及长程空间关系推理的语言指令进行目标实例三维重建，然后自主完成移动操作任务，例如视频中展示了机器人连续完成“1. Put the textbook on the lumbar-support chair by my wooden table. 2. Additionally, fetch a drink (a small one is fine) and place it on the table. 3. Lastly, put the digestive medicine on the lumbar-support chair too.”三个任务。完整视频demo见 <a href="https://www.bilibili.com/video/BV1HiVH6NEBW/" target="_blank" style="color: #007bff; font-weight: bold; text-decoration: underline;">https://www.bilibili.com/video/BV1HiVH6NEBW/</a>
       </p>
+    </td>
+  </tr>
+
+
+  
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/国产商用大飞机装配-image.jpg" alt="国产商用大飞机装配 Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">国家商用大飞机制造工程-基于双目结构光视觉的机器人末端法向找正技术研究</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>第一核心完成人</strong></p>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">完成国家商用大飞机制造工程-”基于双目结构光视觉的机器人末端法向找正技术研究”项目的全部内容，包括完成机器人系统的硬件（机械设计与组装、电路设计与焊接）和软件（基于深度学习的双目结构光视觉感知算法、机器人规划与控制算法、前端人机交互界面）的全流程设计与测试。研究成果包括完成精度与速度指标、学术论文、专利、软件著作权、整装系统集成等。基准孔定位精度提升至0.2mm，识别时间提升至60ms以内，垂直制孔方向的法向精度提升至0.1°。</p>
     </td>
   </tr>
 </table>
