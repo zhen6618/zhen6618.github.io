@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/周振.jpeg"
+  avatar           : "周振.jpeg"
   name             : "Zhen Zhou (周振)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D., focusing on 3D Foundation Models and Embodied Robotics."
