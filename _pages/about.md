@@ -22,6 +22,8 @@ redirect_from:
 
 I am currently a Researcher at **Tencent Hunyuan**, focusing on Reinforcement Learning for 3D Foundation Models and Embodied AI. 
 
+Email: wenw27958@gmail.com
+
 ---
 
 ## Experience
