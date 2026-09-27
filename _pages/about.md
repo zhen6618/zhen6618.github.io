@@ -47,6 +47,23 @@ Email: wenw27958@gmail.com
 ## Selected Publications
 
 <table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+
+
+  
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/Mesh-Pro-image.png" alt="Mesh-Pro Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Jian Liu<sup>†</sup>, <strong>Zhen Zhou</strong><sup>†</sup>, Biwen Lei, Jing Xu, Haohan Weng, Yiling Zhu, Zhuo Chen, Junfeng Fan, Yunkai Ma, Dazhao Du, Song Guo, Fengshui Jing, Chunchao Guo (+ Equal contribution)</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">	arXiv:2609.07137, 2026</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/abs/2609.07137" target="_blank">PDF</a>]</p>
+    </td>
+  </tr>
+
+
+  
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
       <img src="/images/Mesh-Pro-image.png" alt="Mesh-Pro Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
