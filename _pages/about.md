@@ -56,7 +56,7 @@ Email: wenw27958@gmail.com
     </td>
     <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Flow3D-OPD: Multi-Teacher On-Policy Distillation for 3D Geometry Generation with Flow-Matching Diffusion Transformer</h3>
-      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Jian Liu<sup>†</sup>, <strong>Zhen Zhou</strong><sup>†</sup>, Biwen Lei, Jing Xu, Haohan Weng, Yiling Zhu, Zhuo Chen, Junfeng Fan, Yunkai Ma, Dazhao Du, Song Guo, Fengshui Jing, Chunchao Guo (+ Equal contribution)</p>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;">Zhiwei Ning<sup>†</sup>, <strong>Zhen Zhou</strong><sup>†</sup>, Puhua Jiang, Xintong Han, Gengming Zhang, Jie Yang, Zhonglong Zheng, Yuanjie Zheng, Wei Liu, Chunchao Guo (+ Equal contribution)</p>
       <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">	arXiv:2609.07137, 2026</p>
       <p style="margin-top: 0; margin-bottom: 0;">[<a href="https://arxiv.org/abs/2609.07137" target="_blank">PDF</a>]</p>
     </td>
