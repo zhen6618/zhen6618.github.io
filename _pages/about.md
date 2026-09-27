@@ -20,7 +20,7 @@ redirect_from:
   }
 </style>
 
-I am currently a Researcher at **Tencent Hunyuan**, focusing on Reinforcement Learning for 3D Foundation Models and Embodied AI. 
+I am currently a Researcher at **Tencent Hunyuan**, focusing on Reinforcement Learning for 3D Foundation Models and Embodied AI, and Agentic Vision. 
 
 Email: wenw27958@gmail.com
 
@@ -29,7 +29,7 @@ Email: wenw27958@gmail.com
 ## Experience
 
 * **July 2026 - Present: Researcher, Tencent Hunyuan (Qingyun Program)** 
-  * RL for 3D Generation Large Models
+  * RL for 3D Generation Large Models, Agentic Vision
 
 * **Sept 2021 - June 2026: Ph.D., Chinese Academy of Sciences**
   * Institute of Automation, Chinese Academy of Sciences (CASIA) & School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS) & State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)
