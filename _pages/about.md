@@ -49,6 +49,18 @@ Email: wenw27958@gmail.com
 <table style="border: none; width: 100%; border-collapse: collapse; margin-bottom: 20px;">
 
 
+  <tr style="border: none; background: transparent;">
+    <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
+      <img src="/images/DHO-image.png" alt="DHO Figure" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    </td>
+    <td style="border: none; padding: 0 0 20px 0; vertical-align: middle;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-weight: bold; border-bottom: none;">Flow Matching Reinforcement for 3D Mesh Generation via Dynamic Homing Optimization</h3>
+      <p style="margin-top: 0; margin-bottom: 5px; font-size: 0.95em;"><strong>Zhen Zhou</strong><sup>†</sup>, Zhiwei Ning<sup>†</sup>, Puhua Jiang, Sheng Zhang, Yifei Tang, Jie Yang, Xintong Han, Wei Liu, Chunchao Guo (<sup>†</sup> Equal contribution)</p>
+      <p style="margin-top: 0; margin-bottom: 8px; font-style: italic; font-size: 0.95em;">	arXiv:2610.01233, 2026</p>
+      <p style="margin-top: 0; margin-bottom: 0;">[<a href="http://arxiv.org/abs/2610.01233" target="_blank">PDF</a>]</p>
+    </td>
+  </tr>
+
   
   <tr style="border: none; background: transparent;">
     <td style="width: 30%; max-width: 300px; min-width: 150px; border: none; padding: 0 20px 20px 0; vertical-align: middle;">
